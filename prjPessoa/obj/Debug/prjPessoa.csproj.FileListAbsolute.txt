@@ -1,0 +1,14 @@
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\HERANÇA\prjPessoa\bin\Debug\prjPessoa.exe.config
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\HERANÇA\prjPessoa\obj\Debug\prjPessoa.csprojResolveAssemblyReference.cache
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\HERANÇA\prjPessoa\obj\Debug\prjPessoa.Form1.resources
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\HERANÇA\prjPessoa\obj\Debug\prjPessoa.Properties.Resources.resources
+D:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\HERANÇA\prjPessoa\obj\Debug\prjPessoa.csproj.GenerateResource.Cache
+C:\HERANÇA\prjPessoa\bin\Debug\prjPessoa.exe.config
+C:\HERANÇA\prjPessoa\obj\Debug\prjPessoa.csprojResolveAssemblyReference.cache
+C:\HERANÇA\prjPessoa\obj\Debug\prjPessoa.Form1.resources
+C:\HERANÇA\prjPessoa\obj\Debug\prjPessoa.Properties.Resources.resources
+C:\HERANÇA\prjPessoa\obj\Debug\prjPessoa.csproj.GenerateResource.Cache
+C:\HERANÇA\prjPessoa\bin\Debug\prjPessoa.exe
+C:\HERANÇA\prjPessoa\bin\Debug\prjPessoa.pdb
+C:\HERANÇA\prjPessoa\obj\Debug\prjPessoa.exe
+C:\HERANÇA\prjPessoa\obj\Debug\prjPessoa.pdb
